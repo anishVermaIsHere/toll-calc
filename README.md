@@ -1,1 +1,1 @@
-# Toll calculator app in Nextjs
+# Toll calculator application in NextJS 
